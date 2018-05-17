@@ -1,0 +1,5 @@
+﻿  pr2.cpp
+c:\users\oxa\desktop\ihategit\pr2\pr2\pr2.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\oxa\desktop\ihategit\pr2\pr2\pr2.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+  pr2.vcxproj -> C:\Users\Oxa\Desktop\IHateGit\pr2\Debug\pr2.exe
+  pr2.vcxproj -> C:\Users\Oxa\Desktop\IHateGit\pr2\Debug\pr2.pdb (Full PDB)
